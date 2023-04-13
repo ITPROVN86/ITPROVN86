@@ -20,12 +20,12 @@
 🔥In Q1-2023 - My Booming Phase
 I did finished courses by:
 <ul dir="auto">
-<li><a href="https://www.coursera.org/account/accomplishments/verify/X336YTXYXWNV" rel="nofollow">Introduction to Front-End Development</a></li>
-<li><a href="https://www.coursera.org/account/accomplishments/verify/7EA8APDR8BPS" rel="nofollow">Programming with JavaScript</a></li>
-<li><a href="https://www.coursera.org/account/accomplishments/verify/25U258HUVSU4" rel="nofollow">Version Control</a></li>
-<li><a href="https://www.coursera.org/account/accomplishments/verify/GXZQ5V78US4B" rel="nofollow">HTML and CSS in depth</a></li>
-<li><a href="https://www.coursera.org/account/accomplishments/verify/L2CYG2TN5HKY" rel="nofollow">React Basics</a></li>
-<li><a href="https://www.coursera.org/account/accomplishments/verify/Z9HD6Q4VZQV7" rel="nofollow">Introduction to Front-End Development</a></li>
+<li><a href="https://coursera.org/share/af11a85cc3c6d9a9bcd973f399cdc88b" rel="nofollow">Introduction to building Web Pages using HTML5 and CSS3</a></li>
+<li><a href="https://coursera.org/share/dfb29762ce8e23b32ee8d33e4fe5b16f" rel="nofollow">Programming Foundations with JavaScript, HTML and CSS</a></li>
+<li><a href="https://coursera.org/share/6e08b1e1c2d083ff9dbdb1f5db9c98fb" rel="nofollow">Developing Responsive Web Pages Using HTML5 and CSS3</a></li>
+<li><a href="https://coursera.org/share/bf6481aa2a7f70f6690c4728f4496288" rel="nofollow">New Learning: Principles and Patterns of Pedagogy</a></li>
+<li><a href="https://fcu.fpt.com.vn/uploads/2023/FE%20Mi%E1%BB%81n%20Trung/00035380_quangltn3@fe.edu.vn_6762.pdf" rel="nofollow">IBSTPI – International Board of Standards for Training, Performance and Instruction</a></li>
+<li><a href="https://fcu.fpt.com.vn/uploads/2022/FE%20Mi%E1%BB%81n%20Trung/00035380_quangltn3@fe.edu.vn_8384.jpg" rel="nofollow">The Complete JavaScript Course 2022: From Zero to Expert!</a></li>
 </ul>
 
 ### ✍️Random Dev Quote
