@@ -19,13 +19,14 @@
 #
 🔥In Q1-2023 - My Booming Phase
 I did finished courses by:
-(https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@ITPROVN) 
-Introduction to Front-End Development
-Programming with JavaScript
-Version Control
-HTML and CSS in depth
-React Basics
-Introduction to Front-End Development
+<ul dir="auto">
+<li><a href="https://www.coursera.org/account/accomplishments/verify/X336YTXYXWNV" rel="nofollow">Introduction to Front-End Development</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/verify/7EA8APDR8BPS" rel="nofollow">Programming with JavaScript</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/verify/25U258HUVSU4" rel="nofollow">Version Control</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/verify/GXZQ5V78US4B" rel="nofollow">HTML and CSS in depth</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/verify/L2CYG2TN5HKY" rel="nofollow">React Basics</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/verify/Z9HD6Q4VZQV7" rel="nofollow">Introduction to Front-End Development</a></li>
+</ul>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
