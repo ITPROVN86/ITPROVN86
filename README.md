@@ -11,7 +11,7 @@
 🌱 I'm seeking for knowledge, ideas, and opportunities.
 
 ## 🌐Socials
-<a href="https://www.facebook.com/ITquangIT"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Faebook Badge" data-canonical-src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" style="max-width: 100%;">Quang Lê</a>
+[![ITquangIT](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ITquangIT) [![ITPROVN](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ITPROVN) 
 
 
 # 💻Tech Stack
