@@ -8,7 +8,11 @@
 
 ✨ Mastering these technologies and being able to apply them in a real-world development environment will help you become a professional software developer and open up many opportunities in this field.
 
-🌱 I'm seeking for knowledge, ideas, and opportunities.
+🌱 **Git**: https://github.com/ITPROVN86
+🌱 **Youtube**: https://www.youtube.com/@ITPROVN
+🌱 **Website**: https://dotnet.edu.vn & https://dotnet.vn
+🌱 **Zalo**: 0905042112
+🌱 **Email**: webmaster@dotnet.vn
 
 ## 🌐Socials
 [![ITquangIT](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ITquangIT) [![ITPROVN](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ITPROVN) 
