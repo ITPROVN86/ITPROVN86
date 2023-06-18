@@ -39,7 +39,14 @@ I did finished courses by:
 🔥Projects and previous research topics
 <ul dir="auto">
 <li>Website of the Technical and Education University: https://ute.udn.vn</li>
-<li>Evidence Management System: http://mckd.ute.udn.vn/Upload/TaiLieu/Tai-Lieu-QLMinhChung-NhanVien.pdf</li>
+<li>Evidence Management System (Hệ thống Quản lý minh chứng): http://mckd.ute.udn.vn/Upload/TaiLieu/Tai-Lieu-QLMinhChung-NhanVien.pdf</li>
+  <li>Travel Advisory Website: http://thainam.edu.vn/</li>
+  <li>Pharmacy Website: http://phuocthanhtam.com/</li>
+  <li>Youth Union and Association Management Software(Phần mềm Quản lý Chuyên trách - Đoàn Hội): https://sinhvien.ute.udn.vn/</li>
+<li>Study Abroad Consultancy, Online Shop, Moodle, ...</li>
+</ul>
+<ul dir="auto">
+  <li>Summer 2023: Building a website to manage and distribute agricultural products with C#, API, VUE, SQL</li>
 </ul>
 
 # 💻Tech Stack
