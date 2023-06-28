@@ -25,7 +25,7 @@
 [![ITquangIT](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ITquangIT) [![ITPROVN](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ITPROVN) 
 
 #
-🔥In Q1-2023 - My Booming Phase
+🔥Spring-2023
 
 I did finished courses by:
 <ul dir="auto">
@@ -38,6 +38,14 @@ I did finished courses by:
 </ul>
 
 #
+🔥Summer-2023
+
+<ul dir="auto">
+<li><a href="https://www.coursera.org/account/accomplishments/verify/MU6DWLTFGYBM" rel="nofollow">Introduction to Structured Query Language (SQL)</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/RB5KJZ5NJ5TK" rel="nofollow">React Basics</a></li>
+  <li><a href="https://www.udemy.com/certificate/UC-48dc1c78-1f0a-4d83-b366-2457907e912a/" rel="nofollow">Lập trình JavaScript cho người mới bắt đầu</a></li>
+</ul>
+
 🔥Projects and previous research topics
 <ul dir="auto">
 <li>Website of the Technical and Education University: https://ute.udn.vn</li>
