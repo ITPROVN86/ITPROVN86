@@ -18,8 +18,8 @@
 
 🌱 **Email**: webmaster@dotnet.vn
 
-<img src="https://github.com/ITPROVN86/Lab211_FruitManagement/assets/129712915/d509b09e-a53d-47c2-bd83-6d46770c747f" alt="Website Technology 2023 Trends" width="250" />
-<img src="https://github.com/ITPROVN86/Lab211_FruitManagement/assets/129712915/c089f791-15f6-4d90-a718-349a4b11dab7" alt="Website Technology 2023 Trends" width="250" />
+<img src="https://github.com/ITPROVN86/Lab211_FruitManagement/assets/129712915/d509b09e-a53d-47c2-bd83-6d46770c747f" alt="Website Technology 2023 Trends" width="350" height="250" />
+<img src="https://github.com/ITPROVN86/Lab211_FruitManagement/assets/129712915/c089f791-15f6-4d90-a718-349a4b11dab7" alt="Website Technology 2023 Trends" width="350" height="250" />
 
 ## 🌐Socials
 [![ITquangIT](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ITquangIT) [![ITPROVN](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ITPROVN) 
