@@ -18,7 +18,7 @@
 
 🌱 **Email**: webmaster@dotnet.vn
 
-<img src="https://github.com/ITPROVN86/Lab211_FruitManagement/assets/129712915/cc74ba6d-ff1b-4cde-a64a-c0801d527bd3" alt="Website Technology 2023 Trends" width="250" />
+<img src="https://github.com/ITPROVN86/Lab211_FruitManagement/assets/129712915/d509b09e-a53d-47c2-bd83-6d46770c747f" alt="Website Technology 2023 Trends" width="250" />
 <img src="https://github.com/ITPROVN86/Lab211_FruitManagement/assets/129712915/c089f791-15f6-4d90-a718-349a4b11dab7" alt="Website Technology 2023 Trends" width="250" />
 
 ## 🌐Socials
