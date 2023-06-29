@@ -18,10 +18,10 @@
 
 🌱 **Email**: webmaster@dotnet.vn
 
-<img src="https://github.com/ITPROVN86/Lab211_FruitManagement/assets/129712915/d509b09e-a53d-47c2-bd83-6d46770c747f" alt="Website Technology 2023 Trends" width="230" height="170" />
-<img src="https://github.com/ITPROVN86/Lab211_FruitManagement/assets/129712915/c089f791-15f6-4d90-a718-349a4b11dab7" alt="Website Technology 2023 Trends" width="230" height="170" />
-<img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/37bc5c3c-9a28-4d1a-a89a-3a39350b592e" alt="ISBP" width="230" height="170" />
-<img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/1825a76e-6e2a-49c5-ac64-4de88abe5813" alt="Tet 2023" width="230" height="170" />
+<img src="https://github.com/ITPROVN86/Lab211_FruitManagement/assets/129712915/d509b09e-a53d-47c2-bd83-6d46770c747f" alt="Website Technology 2023 Trends" width="220" height="170" />
+<img src="https://github.com/ITPROVN86/Lab211_FruitManagement/assets/129712915/c089f791-15f6-4d90-a718-349a4b11dab7" alt="Website Technology 2023 Trends" width="220" height="170" />
+<img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/37bc5c3c-9a28-4d1a-a89a-3a39350b592e" alt="ISBP" width="220" height="170" />
+<img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/1825a76e-6e2a-49c5-ac64-4de88abe5813" alt="Tet 2023" width="220" height="170" />
 <br/>
 <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/55a8d6b3-6d4b-4d2a-973a-271f039e0922" alt="Lên Đỉnh 2022" width="220" height="300" />
 <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/67b1d34f-8def-4766-a2ce-d3e6ea13d509" alt="Workshop CpdeGym 2022" width="220" height="300" />
