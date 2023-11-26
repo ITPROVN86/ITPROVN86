@@ -17,7 +17,6 @@
 🌱 **Zalo**: 0905042112
 
 🌱 **Email**: webmaster@dotnet.vn
-![z4911481287386_41bd213e4028fc22ab50fc13fb864f2c](https://github.com/ITPROVN86/ITPROVN86/assets/129712915/1d06f768-dbec-446f-9537-cde05ece5672)
 
 <img src="https://github.com/ITPROVN86/Lab211_FruitManagement/assets/129712915/d509b09e-a53d-47c2-bd83-6d46770c747f" alt="Website Technology 2023 Trends" width="220" height="170" />
 <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/1d06f768-dbec-446f-9537-cde05ece5672" alt="Dragon WaterFall - Sapa 11/2023" width="220" height="170" />
