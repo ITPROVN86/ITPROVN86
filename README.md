@@ -17,9 +17,10 @@
 🌱 **Zalo**: 0905042112
 
 🌱 **Email**: webmaster@dotnet.vn
+![z4911481287386_41bd213e4028fc22ab50fc13fb864f2c](https://github.com/ITPROVN86/ITPROVN86/assets/129712915/1d06f768-dbec-446f-9537-cde05ece5672)
 
 <img src="https://github.com/ITPROVN86/Lab211_FruitManagement/assets/129712915/d509b09e-a53d-47c2-bd83-6d46770c747f" alt="Website Technology 2023 Trends" width="220" height="170" />
-<img src="https://github.com/ITPROVN86/Lab211_FruitManagement/assets/129712915/c089f791-15f6-4d90-a718-349a4b11dab7" alt="Website Technology 2023 Trends" width="220" height="170" />
+<img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/1d06f768-dbec-446f-9537-cde05ece5672" alt="Dragon WaterFall - Sapa 11/2023" width="220" height="170" />
 <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/37bc5c3c-9a28-4d1a-a89a-3a39350b592e" alt="ISBP" width="220" height="170" />
 <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/1825a76e-6e2a-49c5-ac64-4de88abe5813" alt="Tet 2023" width="220" height="170" />
 <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/c6bcf8e5-86a5-479f-8263-bcb66cf63265" alt="Summer Mang Den 2023" width="220" height="170" />
@@ -46,11 +47,17 @@ I did finished courses by:
 
 #
 🔥Summer-2023
-
+I did finished courses by:
 <ul dir="auto">
 <li><a href="https://www.coursera.org/account/accomplishments/verify/MU6DWLTFGYBM" rel="nofollow">Introduction to Structured Query Language (SQL)</a></li>
   <li><a href="https://www.coursera.org/account/accomplishments/verify/RB5KJZ5NJ5TK" rel="nofollow">React Basics</a></li>
   <li><a href="https://www.udemy.com/certificate/UC-48dc1c78-1f0a-4d83-b366-2457907e912a/" rel="nofollow">Lập trình JavaScript cho người mới bắt đầu</a></li>
+</ul>
+
+🔥Fall-2023
+I did finished courses by:
+<ul dir="auto">
+<li><a href="https://www.coursera.org/account/accomplishments/certificate/RC4C4YKYW4WE" rel="nofollow">Azure: Create a Virtual Machine and Deploy a Web Server</a></li>
 </ul>
 
 🔥Projects and previous research topics
@@ -64,6 +71,7 @@ I did finished courses by:
 </ul>
 <ul dir="auto">
   <li>Summer 2023: Building a website to manage and distribute agricultural products with C#, API, VUE, SQL</li>
+   <li>Spring 2024: Building clinic service management application using ASP.NET Core Blazor with Progressive web app (PWA).</li>
 </ul>
 
 # 💻Tech Stack
@@ -80,7 +88,7 @@ I did finished courses by:
   
   <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/f41de281-420f-429e-a28a-19ac156e62cc" alt="TechComBank" width="50" />**TechComBank:** 9687717786
   
-  <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/cd643418-3363-49e6-bcb6-c08221d9b1ec" alt="MBBank" width="50" />**MB Bank:** 687711786
+  <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/cd643418-3363-49e6-bcb6-c08221d9b1ec" alt="MBBank" width="50" />**MB Bank:** 687717786
 
   <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/a5daadf1-27f1-4637-871d-b673d7ea8a5c" alt="TPBank" width="50" />**TP Bank:** 00031751786
 
