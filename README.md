@@ -58,6 +58,11 @@ I did finished courses by:
 <ul dir="auto">
 <li><a href="https://www.coursera.org/account/accomplishments/certificate/RC4C4YKYW4WE" rel="nofollow">Azure: Create a Virtual Machine and Deploy a Web Server</a></li>
 </ul>
+🔥Spring-2024
+I did finished courses by:
+<ul dir="auto">
+<li><a href="https://www.coursera.org/account/accomplishments/certificate/ZPC759GT3DB8" rel="nofollow">Introduction to HTML5</a></li>
+</ul>
 
 🔥Projects and previous research topics
 <ul dir="auto">
