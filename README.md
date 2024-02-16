@@ -62,6 +62,9 @@ I did finished courses by:
 I did finished courses by:
 <ul dir="auto">
 <li><a href="https://www.coursera.org/account/accomplishments/certificate/ZPC759GT3DB8" rel="nofollow">Introduction to HTML5</a></li>
+<li><a href="https://coursera.org/share/82e779767f1a66840272836f9f45cb0e" rel="nofollow">Interactivity with JavaScript</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/DR6RH8H2TNRJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" rel="nofollow">Web Design for Everybody Capstone</a></li>
+  <li><a href="https://coursera.org/share/f08ce12f4448cdbc2db99ca4602493e2" rel="nofollow">Foundations of Teaching for Learning: Introduction</a></li>
 </ul>
 
 🔥Projects and previous research topics
