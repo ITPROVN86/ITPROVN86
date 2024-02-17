@@ -61,6 +61,8 @@ I did finished courses by:
 🔥Spring-2024
 I did finished courses by:
 <ul dir="auto">
+  <li><a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-989d1c91-24cc-422f-b89e-01c2a3191c03.pdf" rel="nofollow">
+.NET 6 Web API & Entity Framework Core Jumpstart</a></li>
 <li><a href="https://www.coursera.org/account/accomplishments/certificate/ZPC759GT3DB8" rel="nofollow">Introduction to HTML5</a></li>
   <li><a href="https://coursera.org/share/9aec5884a24d2648e341fb1006eeccde" rel="nofollow">Introduction to CSS3</a></li>
 <li><a href="https://coursera.org/share/82e779767f1a66840272836f9f45cb0e" rel="nofollow">Interactivity with JavaScript</a></li>
