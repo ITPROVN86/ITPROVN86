@@ -62,7 +62,9 @@ I did finished courses by:
 I did finished courses by:
 <ul dir="auto">
 <li><a href="https://www.coursera.org/account/accomplishments/certificate/ZPC759GT3DB8" rel="nofollow">Introduction to HTML5</a></li>
+  <li><a href="https://coursera.org/share/9aec5884a24d2648e341fb1006eeccde" rel="nofollow">Introduction to CSS3</a></li>
 <li><a href="https://coursera.org/share/82e779767f1a66840272836f9f45cb0e" rel="nofollow">Interactivity with JavaScript</a></li>
+   <li><a href="https://coursera.org/share/aaf3a23e311e049da48c2b6cb3557e7c" rel="nofollow">Advanced Styling with Responsive Design</a></li>
   <li><a href="https://www.coursera.org/account/accomplishments/verify/DR6RH8H2TNRJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" rel="nofollow">Web Design for Everybody Capstone</a></li>
   <li><a href="https://coursera.org/share/f08ce12f4448cdbc2db99ca4602493e2" rel="nofollow">Foundations of Teaching for Learning: Introduction</a></li>
 </ul>
