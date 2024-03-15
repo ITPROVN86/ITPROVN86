@@ -61,6 +61,7 @@ I did finished courses by:
 🔥Spring-2024
 I did finished courses by:
 <ul dir="auto">
+   <li><a href="https://coursera.org/share/9c943ed5613d5518a345fedc259a6f24" rel="nofollow">Object Oriented Programming in Java</a></li>
    <li><a href="https://funix.udemy.com/certificate/UC-f0a08371-97bd-4625-ad0b-68de61e92c62" rel="nofollow">Node.js, Express, MongoDB & More: The Complete Bootcamp 2024</a></li>
   <li><a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-989d1c91-24cc-422f-b89e-01c2a3191c03.pdf" rel="nofollow">
 .NET 7 Web API & Entity Framework Core Jumpstart</a></li>
