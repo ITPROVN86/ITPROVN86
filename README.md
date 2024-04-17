@@ -86,6 +86,7 @@ I did finished courses by:
 <ul dir="auto">
   <li>Summer 2023: Building a website to manage and distribute agricultural products with C#, API, VUE, SQL</li>
    <li>Spring 2024: Building clinic service management application using ASP.NET Core Blazor with Progressive web app (PWA).</li>
+  <li>Summer 2024: Building a web platform to manage event ticket supply at FPT University Da Nang using ASP.NET Core Web API, ReactJS, SQLServer</li>
 </ul>
 
 # 💻Tech Stack
