@@ -24,6 +24,7 @@
 <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/1825a76e-6e2a-49c5-ac64-4de88abe5813" alt="Tet 2023" width="220" height="170" />
 <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/c6bcf8e5-86a5-479f-8263-bcb66cf63265" alt="Summer Mang Den 2023" width="220" height="170" />
 <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/c13f2566-5bee-4f1d-829c-055aca237098" alt="CapStone Project SU23" width="220" height="170" />
+<img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/69c06dd4-f9b7-4418-a7d1-31ae93516f57" alt="Kick of SPRING 24" width="220" height="170" />
 <br/>
 <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/55a8d6b3-6d4b-4d2a-973a-271f039e0922" alt="Lên Đỉnh 2022" width="220" height="300" />
 <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/67b1d34f-8def-4766-a2ce-d3e6ea13d509" alt="Workshop CpdeGym 2022" width="220" height="300" />
