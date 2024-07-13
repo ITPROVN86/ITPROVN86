@@ -18,6 +18,7 @@
 
 🌱 **Email**: dotnet.edu.vn@gmail.com
 
+## <img src="https://github.com/user-attachments/assets/ffc02512-7529-40f5-8540-85855b1fa3d8" width="16" height="16" /> Album
 <img src="https://github.com/ITPROVN86/Lab211_FruitManagement/assets/129712915/d509b09e-a53d-47c2-bd83-6d46770c747f" alt="Website Technology 2023 Trends" width="220" height="170" />
 <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/1d06f768-dbec-446f-9537-cde05ece5672" alt="Dragon WaterFall - Sapa 11/2023" width="220" height="170" />
 <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/37bc5c3c-9a28-4d1a-a89a-3a39350b592e" alt="ISBP" width="220" height="170" />
