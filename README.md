@@ -86,6 +86,9 @@ I did finished courses by:
   <li>Youth Union and Association Management Software(Phần mềm Quản lý Chuyên trách - Đoàn Hội): https://sinhvien.ute.udn.vn/</li>
 <li>Study Abroad Consultancy, Online Shop, Moodle, ...</li>
 </ul>
+
+## <img src="https://github.com/user-attachments/assets/d06a8bf9-9197-4e64-84af-c50cbe608df9" width="24" height="24" /> Topic guide
+
 <ul dir="auto">
   <li>Summer 2023: Building a website to manage and distribute agricultural products with C#, API, VUE, SQL</li>
    <li>Spring 2024: Building clinic service management application using ASP.NET Core Blazor with Progressive web app (PWA).</li>
