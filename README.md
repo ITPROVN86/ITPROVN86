@@ -96,6 +96,8 @@ I did finished courses by:
   <li>Fall 2024:
   </li>
 </ul>
+
+
 | ID | Project Title                                                                                                                   |
 |----|---------------------------------------------------------------------------------------------------------------------------------|
 | 1  | Building an application platform to connect tourists and locals. Utilizes ASP.NET Web API, SQL Server, React JS, and React Native. |
