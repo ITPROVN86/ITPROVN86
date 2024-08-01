@@ -90,15 +90,18 @@ I did finished courses by:
 ## <img src="https://github.com/user-attachments/assets/d06a8bf9-9197-4e64-84af-c50cbe608df9" width="24" height="24" /> Topic guide
 
 <ul dir="auto">
-  <li>Summer 2023: Building a website to manage and distribute agricultural products with C#, API, VUE, SQL</li>
-   <li>Spring 2024: Building clinic service management application using ASP.NET Core Blazor with Progressive web app (PWA).</li>
-  <li>Summer 2024: Building a web platform to manage event ticket supply at FPT University Da Nang using ASP.NET Core Web API, ReactJS, SQLServer</li>
-  <li>Fall 2024:
+  <li>**Summer 2023**: Building a website to manage and distribute agricultural products with C#, API, VUE, SQL</li>
+   <li>**Spring 2024**: Building clinic service management application using ASP.NET Core Blazor with Progressive web app (PWA).</li>
+  <li>**Summer 2024**: Building a web platform to manage event ticket supply at FPT University Da Nang using ASP.NET Core Web API, ReactJS, SQLServer</li>
+  <li>**Fall 2024**:
 
-| ID | Project Title                                                                                                                   |
-|----|---------------------------------------------------------------------------------------------------------------------------------|
-| 1  | Building an application platform to connect tourists and locals. Utilizes ASP.NET Web API, SQL Server, React JS, and React Native. |
-| 2  | Development of a Book and Stationery Sales Website for a Bookstore using .NET technology, ReactJS, RESTful API, and SQL Server.  |
+
+| ID | Project Title                                                                                                                   | Leader |
+|----|---------------------------------------------------------------------------------------------------------------------------------|--------|
+| 1  | Building an application platform to connect tourists and locals. Utilizes ASP.NET Web API, SQL Server, React JS, and React Native. | Hải Đăng |
+| 2  | Development of a Book and Stationery Sales Website for a Bookstore using .NET technology, ReactJS, RESTful API, and SQL Server.  | Thành Long |
+| 3  | Development of a recipe management and book distribution website using .NET technology, ReactJS, RESTful API, SQL Server.  | Anh Tuấn |
+| 4  | Development of an Online Auction Website in Da Nang using .NET technology, ReactJS, RESTful API, SQL Server.  | Trường Hiếu |
     
   </li>
 </ul>
