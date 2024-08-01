@@ -94,12 +94,12 @@ I did finished courses by:
 - **Summer 2024** : Building a web platform to manage event ticket supply at FPT University Da Nang using ASP.NET Core Web API, ReactJS, SQLServer
 - **Fall 2024** :
 
-| ID | Project Title                                                                                                                   | Leader |
-|----|---------------------------------------------------------------------------------------------------------------------------------|--------|
-| 1  | Building an application platform to connect tourists and locals. Utilizes ASP.NET Web API, SQL Server, React JS, and React Native. | Hai Dang |
-| 2  | Development of a Book and Stationery Sales Website for a Bookstore using .NET technology, ReactJS, RESTful API, and SQL Server.  | Thanh Long |
-| 3  | Development of a recipe management and book distribution website using .NET technology, ReactJS, RESTful API, SQL Server.  | Anh Tuan |
-| 4  | Development of an Online Auction Website in Da Nang using .NET technology, ReactJS, RESTful API, SQL Server.  | Truong Hieu |
+| ID | Project Title                                                                                                                   | Leader |Meeting schedule|
+|----|---------------------------------------------------------------------------------------------------------------------------------|--------|----------------|
+| 1  | Building an application platform to connect tourists and locals. Utilizes ASP.NET Web API, SQL Server, React JS, and React Native. | Hai Dang | Meet1(21h15 2/8) |
+| 2  | Development of a Book and Stationery Sales Website for a Bookstore using .NET technology, ReactJS, RESTful API, and SQL Server.  | Thanh Long | Meet1(18h00 2/8) |
+| 3  | Development of a recipe management and book distribution website using .NET technology, ReactJS, RESTful API, SQL Server.  | Anh Tuan | Meet1(20h15 2/8) |
+| 4  | Development of an Online Auction Website in Da Nang using .NET technology, ReactJS, RESTful API, SQL Server.  | Truong Hieu | Meet1(22h00 2/8) |
     
 
 # 💻Tech Stack
