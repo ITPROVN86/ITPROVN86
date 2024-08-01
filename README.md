@@ -87,7 +87,7 @@ I did finished courses by:
 <li>Study Abroad Consultancy, Online Shop, Moodle, ...</li>
 </ul>
 
-## <img src="https://github.com/user-attachments/assets/d06a8bf9-9197-4e64-84af-c50cbe608df9" width="24" height="24" /> Topic guide
+## <img src="https://github.com/user-attachments/assets/d06a8bf9-9197-4e64-84af-c50cbe608df9" width="24" height="24" /> <span style="color:red; font-weight:bold;">Topic guide</span>
 
 - **Summer 2023** : Building a website to manage and distribute agricultural products with C#, API, VUE, SQL
 - **Spring 2024** : Building clinic service management application using ASP.NET Core Blazor with Progressive web app (PWA).
