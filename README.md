@@ -31,6 +31,7 @@
 <br/>
 <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/55a8d6b3-6d4b-4d2a-973a-271f039e0922" alt="Lên Đỉnh 2022" width="220" height="300" />
 <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/67b1d34f-8def-4766-a2ce-d3e6ea13d509" alt="Workshop CpdeGym 2022" width="220" height="300" />
+<img src="https://github.com/user-attachments/assets/63d0da6f-fca2-4aae-93c8-c56c8f357ef9" alt="CapStone Project SU24" width="220" height="300" />
 
 ## 🌐Socials
 [![ITquangIT](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ITquangIT) [![ITPROVN](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ITPROVN) 
