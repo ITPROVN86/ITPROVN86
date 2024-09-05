@@ -102,10 +102,10 @@ I did finished courses by:
 
 | ID | Project Title                                                                                                                   | Leader |Meeting schedule|
 |----|---------------------------------------------------------------------------------------------------------------------------------|--------|----------------|
-| 1  | Building an application platform to connect tourists and locals. Utilizes ASP.NET Web API, SQL Server, React JS, and React Native. | Hai Dang | Meet1(21h15 2/8), Meet2(20h30 15/8) |
-| 2  | Development of a Book and Stationery Sales Website for a **Bookstore** using .NET technology, ReactJS, RESTful API, and SQL Server.  | Thanh Long | Meet1(18h00 2/8), Meet2(21h 14/8) |
-| 3  | Development of a recipe management and **book distribution** website using .NET technology, ReactJS, RESTful API, SQL Server.  | Anh Tuan | Meet1(20h15 2/8), Meet2(19h30 15/8) |
-| 4  | Development of an **Online Auction** Website in Da Nang using .NET technology, ReactJS, RESTful API, SQL Server.  | Truong Hieu | Meet1(22h00 2/8), Meet2(21h15 13/8) |
+| 1  | Building an application platform to connect tourists and locals. Utilizes ASP.NET Web API, SQL Server, React JS, and React Native. | Hai Dang | Meet1(21h15 2/8), Meet2(20h30 15/8), Meet3(22g00 6/9) |
+| 2  | Development of a Book and Stationery Sales Website for a **Bookstore** using .NET technology, ReactJS, RESTful API, and SQL Server.  | Thanh Long | Meet1(18h00 2/8), Meet2(21h 14/8), Meet3(20g30 7/9) |
+| 3  | Development of a recipe management and **book distribution** website using .NET technology, ReactJS, RESTful API, SQL Server.  | Anh Tuan | Meet1(20h15 2/8), Meet2(19h30 15/8), Meet3(19g00 7/9) |
+| 4  | Development of an **Online Auction** Website in Da Nang using .NET technology, ReactJS, RESTful API, SQL Server.  | Truong Hieu | Meet1(22h00 2/8), Meet2(21h15 13/8), Meet3(21g00 6/9) |
     
 
 # 💻Tech Stack
