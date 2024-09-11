@@ -22,6 +22,7 @@
 <img src="https://github.com/ITPROVN86/Lab211_FruitManagement/assets/129712915/d509b09e-a53d-47c2-bd83-6d46770c747f" alt="Website Technology 2023 Trends" width="220" height="170" />
 <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/1d06f768-dbec-446f-9537-cde05ece5672" alt="Dragon WaterFall - Sapa 11/2023" width="220" height="170" />
 <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/37bc5c3c-9a28-4d1a-a89a-3a39350b592e" alt="ISBP" width="220" height="170" />
+<img src="https://github.com/user-attachments/assets/71252151-c50b-47dd-bc57-bfaf281d87bb" alt="Talkshow: Be Successful In Your Own Way" width="220" height="170" />
 <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/1825a76e-6e2a-49c5-ac64-4de88abe5813" alt="Tet 2023" width="220" height="170" />
 <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/c6bcf8e5-86a5-479f-8263-bcb66cf63265" alt="Summer Mang Den 2023" width="220" height="170" />
 <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/c13f2566-5bee-4f1d-829c-055aca237098" alt="CapStone Project SU23" width="220" height="170" />
