@@ -2,7 +2,7 @@
 
 💗 I'm Le Thien Nhat Quang - I am a lecturer at FPT University Da Nang, with many years of experience in teaching and development in the field of Software development.
 
-💗 Application development technologies such as .NET, JAVA, HTML5, CSS3, JS, JQuery, BootStrap, ReactJS/React Native.
+💗 Application development technologies such as .NET, JAVA, ReactJS/React Native, Android, PHP.
 
 ⚡ By utilizing programming tools and skills, I can design and develop cross-platform web applications and software that provide value to customers and users.
 
