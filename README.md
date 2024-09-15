@@ -82,6 +82,8 @@ I did finished courses by:
 I did finished courses by:
 <ul dir="auto">
 <li><a href="https://www.coursera.org/account/accomplishments/certificate/1ONK2IOPS8N1" rel="nofollow">Unity and C# basics</a></li>
+<li><a href="https://github.com/user-attachments/files/17005378/m29524-hoang.paper.pdf" rel="nofollow">The 3rd International Conference on Intelligence of Things 2024: NEXT-GEN FITNESS: The Integration of Smart Sensor and Dumbbells</a></li>
+
 </ul>
 
 🔥Projects and previous research topics
