@@ -105,11 +105,11 @@ I did finished courses by:
 
 | ID | Project Title                                                                                                                   | Leader |Meeting schedule|
 |----|---------------------------------------------------------------------------------------------------------------------------------|--------|----------------|
-| 1  | Building an application platform to connect **tourists** and locals. Utilizes ASP.NET Web API, SQL Server, React JS, and React Native. | Hai Dang | Meet1(21h15 2/8), Meet2(20h30 15/8), Meet3(22g00 6/9), Meet4(21g00 13/9), Meet5(21g00 20/9), Meet6(21g00 25/9) |
-| 2  | Building a Book and Stationery Sales Website for a **Bookstore** using .NET technology, ReactJS, RESTful API, and SQL Server.  | Thanh Long | Meet1(18h00 2/8), Meet2(21h 14/8), Meet3(20g30 7/9), Meet4(22g00 13/9), Meet5(22g00 20/9), Meet6(21g00 26/9) |
-| 3  | Building a recipe management and **book distribution** website using .NET technology, ReactJS, RESTful API, SQL Server.  | Anh Tuan | Meet1(20h15 2/8), Meet2(19h30 15/8), Meet3(19g00 7/9), Meet4(19g00 14/9), Meet5(21g00 21/9), Meet6(21g00 26/9) |
-| 4  | Building an **Online Auction** Website in Da Nang using .NET technology, ReactJS, RESTful API, SQL Server.  | Nhat Long | Meet1(22h00 2/8), Meet2(21h15 13/8), Meet3(19g00 6/9), Meet4(20g30 14/9), Meet5(22g00 21/9), Meet6(21g00 25/9) |
-| 5  | Building a work connection system for students using ASP NET CORE WEB API technology, ReactJS, AWS hosting.  | Hoàng Tài | Meet3(21g30  13/9), Meet4(21g30  22/9), Meet5(21g30  25/9) |
+| 1  | Building an application platform to connect **tourists** and locals. Utilizes ASP.NET Web API, SQL Server, React JS, and React Native. | Hai Dang | Meet1(21h15 2/8), Meet2(20h30 15/8), Meet3(22g00 6/9), Meet4(21g00 13/9), Meet5(21g00 20/9), Meet6(21g00 25/9), Meet7(21g00 8/10) |
+| 2  | Building a Book and Stationery Sales Website for a **Bookstore** using .NET technology, ReactJS, RESTful API, and SQL Server.  | Thanh Long | Meet1(18h00 2/8), Meet2(21h 14/8), Meet3(20g30 7/9), Meet4(22g00 13/9), Meet5(22g00 20/9), Meet6(21g00 26/9), Meet7(19g30 8/10) |
+| 3  | Building a recipe management and **book distribution** website using .NET technology, ReactJS, RESTful API, SQL Server.  | Anh Tuan | Meet1(20h15 2/8), Meet2(19h30 15/8), Meet3(19g00 7/9), Meet4(19g00 14/9), Meet5(21g00 21/9), Meet6(21g00 26/9), Meet7(19g00 8/10) |
+| 4  | Building an **Online Auction** Website in Da Nang using .NET technology, ReactJS, RESTful API, SQL Server.  | Nhat Long | Meet1(22h00 2/8), Meet2(21h15 13/8), Meet3(19g00 6/9), Meet4(20g30 14/9), Meet5(22g00 21/9), Meet6(21g00 25/9), Meet7(20g00 8/10) |
+| 5  | Building a work connection system for students using ASP NET CORE WEB API technology, ReactJS, AWS hosting.  | Hoàng Tài | Meet3(21g30  13/9), Meet4(21g30  22/9), Meet5(21g30  25/9), Meet6(21g00 9/10) |
     
 
 # 💻Tech Stack
