@@ -32,6 +32,7 @@
 <img src="https://github.com/user-attachments/assets/a39a6a7d-5b53-4a0f-9084-4634d17b5c43" alt="Ngàn người lên đỉnh năm 2023 - Hàm Rồng" width="220" height="170" />
 <img src="https://github.com/user-attachments/assets/363a5f93-2113-4ef5-be52-7036d5439f91" alt="Kick-off 2023" width="220" height="170" />
 <img src="https://github.com/user-attachments/assets/47811067-b8e7-4130-b144-9a85adb0fd66" alt="Practical Thiết lập WorkFlows CI/CD FA24" width="220" height="170" />
+<img src="https://github.com/user-attachments/assets/265df340-d15f-49bb-8c44-180fe6e8cf04" title="Hội nghị Chiến lược G3 - FA24" alt="Hội nghị Chiến lược G3 - FA24" width="220" height="170" />
 
 <br/>
 <img src="https://github.com/ITPROVN86/ITPROVN86/assets/129712915/55a8d6b3-6d4b-4d2a-973a-271f039e0922" alt="Lên Đỉnh 2022" width="220" height="300" />
