@@ -88,7 +88,11 @@ I did finished courses by:
 <ul dir="auto">
 <li><a href="https://www.coursera.org/account/accomplishments/certificate/1ONK2IOPS8N1" rel="nofollow">Unity and C# basics</a></li>
 <li><a href="https://github.com/user-attachments/files/17005378/m29524-hoang.paper.pdf" rel="nofollow">The 3rd International Conference on Intelligence of Things 2024: NEXT-GEN FITNESS: The Integration of Smart Sensor and Dumbbells</a></li>
+</ul>
 
+🔥Fall-2024
+<ul dir="auto">
+<li><a href="https://www.udemy.com/certificate/UC-6c4c7dea-b2dc-41fa-aa02-a587541a735c/" rel="nofollow">Vỡ lòng về Amazone Web Services</a></li></li>
 </ul>
 
 🔥Projects and previous research topics
