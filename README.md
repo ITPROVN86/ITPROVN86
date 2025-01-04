@@ -125,7 +125,7 @@ I did finished courses by:
 | ID | Project Title                                                                                                                   | Leader |Meeting schedule|
 |----|---------------------------------------------------------------------------------------------------------------------------------|--------|----------------|
 | 1  | Building a **Da Nang Sports** Field Management and Booking System using ASP.NET CORE API, VueJS and SQL Server. | Bảo Duy | Meet1(10h 28/12), Meet2(10h 4/1)  |
-| 2  | Build an **online art gallery** application using NextJS, Nodejs, ExpressJS, WebGL, MongoDB.  | Meet1(14h30 28/12), Meet2(14h30 4/1) |
+| 2  | Build an **online art gallery** application using NextJS, Nodejs, ExpressJS, WebGL, MongoDB. | Danh Lưu | Meet1(14h30 28/12), Meet2(14h30 4/1) |
 | 3  | Building a system for **Learning Vietnamese History** through Images and Museum Artifacts using ReactJS, ASP.NET Core API, SQL Server.  | Quang Tiên | Meet1(16h 28/12), Meet2(16h 4/1) |
 | 4  | VirtualMeet - Versatile **Virtual Meeting** Platform using ASP.NET Core API, Angular, WebRTC, SignalR, MongoDB, and SQL Server.  | Mạnh Tường | Meet1(20h 28/12), Meet2(20h 4/1) |
 
