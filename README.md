@@ -55,6 +55,10 @@ I did finished courses by:
 <li><a href="https://fcu.fpt.com.vn/uploads/2022/FE%20Mi%E1%BB%81n%20Trung/00035380_quangltn3@fe.edu.vn_8384.jpg" rel="nofollow">The Complete JavaScript Course 2022: From Zero to Expert!</a></li>
 </ul>
 
+## Certificate
+
+<img width="198" height="198" alt="ccna-introduction-to-networks" src="https://github.com/user-attachments/assets/7435d3ce-d7c6-49db-b02f-e8ff1502411c" />
+
 #
 🔥Summer-2023
 I did finished courses by:
